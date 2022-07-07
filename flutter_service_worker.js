@@ -3,7 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "b8fb2324eeb632b939db4586ae035691",
+  "assets/AssetManifest.json": "1431e9901336114048b0d7e2a9fd3dbc",
+"assets/assets/images/applogo/dawam.png": "3c947808d4167edf0b48c2d1f4a33039",
+"assets/assets/images/applogo/myupchar.png": "188fe9ed3eee661d92055f552eb6bc29",
+"assets/assets/images/applogo/myupchar.webp": "4ba026e11d5428c4346ae2fb8da9ebe7",
+"assets/assets/images/applogo/myupchardoctor.png": "ea8986b3d1d663e0ae1a6a3bb4ccf1f0",
+"assets/assets/images/applogo/myupchardoctor.webp": "8076835436bd982e9ddc0f9fa2658660",
+"assets/assets/images/applogo/onlinekaka.png": "bfcfd56fd97665528ad63dff9b9b1209",
 "assets/assets/images/background.png": "0614a717659df3fd409c60ff04fac983",
 "assets/assets/images/bg_img_2.png": "8257ef89b2dfeab767578260965a7e2d",
 "assets/assets/images/contact_icon.png": "856b95eb03d60fa2576140e4c3d034b9",
@@ -43,9 +49,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "847377dd97a749c45a86085e7c686cd1",
-"/": "847377dd97a749c45a86085e7c686cd1",
-"main.dart.js": "f2757f6ba8f89abfa419ecf16e42a62f",
+"index.html": "4b9a7965a0256878a03d8e2a3b594131",
+"/": "4b9a7965a0256878a03d8e2a3b594131",
+"main.dart.js": "b99bd1e0aa767f9a32317ae3c35c0c70",
 "manifest.json": "d40c47d1c161f94dbcb13094d37f1f55",
 "version.json": "009c9e65172e010890f7f65fde438006"
 };
